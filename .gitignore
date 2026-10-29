@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 outputs/*.mp4
 data/*.mp4
+yolov8n.pt
