@@ -30,6 +30,7 @@ To implement and compare important computer vision techniques using real, self-c
 ---
 
 ## 📂 Folder Structure
+```
 CCA3_ComputerVision/
 │
 ├── data/
@@ -54,8 +55,7 @@ CCA3_ComputerVision/
 ├── README.md
 ├── requirements.txt
 └── CCA3_Technical_Report.pdf
-
-
+```
 ---
 
 ## 🧪 Tasks Implemented
